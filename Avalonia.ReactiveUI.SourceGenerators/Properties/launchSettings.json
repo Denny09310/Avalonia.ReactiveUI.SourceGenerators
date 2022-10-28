@@ -1,0 +1,8 @@
+{
+	"profiles": {
+		"Roslyn Debug": {
+			"commandName": "DebugRoslynComponent",
+			"targetProject": "..\\Avalonia.ReactiveUI.SourceGenerators.Cli\\Avalonia.ReactiveUI.SourceGenerators.Cli.csproj"
+		}
+	}
+}

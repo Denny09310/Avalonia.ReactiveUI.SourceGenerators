@@ -1,0 +1,7 @@
+<Project>
+	<PropertyGroup>
+		<AvaloniaVersion>11.0.0-preview2</AvaloniaVersion>
+		<LangVersion>latest</LangVersion>
+		<NoWarn>MSB3277;CS8032</NoWarn>
+	</PropertyGroup>
+</Project>
