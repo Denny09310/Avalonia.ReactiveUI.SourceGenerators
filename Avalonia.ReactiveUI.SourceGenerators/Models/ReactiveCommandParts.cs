@@ -1,5 +1,5 @@
 ﻿using Avalonia.ReactiveUI.SourceGenerators.Generation.Extensions;
-using Avalonia.ReactiveUI.SourceGenerators.Models;
+using Avalonia.ReactiveUI.SourceGenerators.Models.Implementations;
 
 namespace Avalonia.ReactiveUI.SourceGenerators.Generation.Models;
 

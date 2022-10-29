@@ -2,14 +2,14 @@
 
 namespace Avalonia.ReactiveUI.SourceGenerators.Models.Base;
 
-internal class BaseReactiveCommandDeclaration : IReactiveCommandParts
+internal class BaseReactiveCommandDeclaration : IReactiveCommandDeclaration
 {
-    public const string UnitTypeName = "Unit";
+    public const string UnitTypeName = "System.Reactive.Unit";
 
     public BaseReactiveCommandDeclaration(string? tParam, string? tResult, string? commandName)
     {
-        TResult = tResult;
         TParam = tParam;
+        TResult = tResult;
         CommandName = commandName;
     }
 

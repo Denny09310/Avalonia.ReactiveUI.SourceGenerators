@@ -1,6 +1,6 @@
 ﻿using Avalonia.ReactiveUI.SourceGenerators.Models.Base;
 
-namespace Avalonia.ReactiveUI.SourceGenerators.Models;
+namespace Avalonia.ReactiveUI.SourceGenerators.Models.Implementations;
 
 internal class PrivateReactiveCommandDeclaration : BaseReactiveCommandDeclaration
 {

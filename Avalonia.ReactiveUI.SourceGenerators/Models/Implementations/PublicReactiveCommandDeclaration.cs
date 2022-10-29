@@ -2,7 +2,7 @@
 using Avalonia.ReactiveUI.SourceGenerators.Models.Base;
 using System.Linq;
 
-namespace Avalonia.ReactiveUI.SourceGenerators.Models;
+namespace Avalonia.ReactiveUI.SourceGenerators.Models.Implementations;
 
 internal class PublicReactiveCommandDeclaration : BaseReactiveCommandDeclaration
 {
